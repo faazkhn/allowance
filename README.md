@@ -76,7 +76,7 @@ flowchart LR
 **Requirements:** Node.js 22.13 or newer.
 
 ```bash
-git clone https://github.com/blop77/allowance.git
+git clone https://github.com/faazkhn/allowance.git
 cd allowance
 npm install
 cp .env.example .env.local   # then fill in the keys below
